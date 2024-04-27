@@ -1,0 +1,49 @@
+// Whitelist generated at Sun, 08 Oct 2017 21:17:14 +0200
+// Custom Whitelist ID: 7747
+
+// Share or view this whitelist:
+//	http://whitelist.tf/7747
+
+// New items added to the game are: allowed
+// Hats are: allowed
+// Miscs are: allowed
+// Pyrovision is: allowed
+// Noisemakers are: allowed
+// Restricted noisemakers are: allowed
+// Halloween/Full Moon items are: allowed
+// Noise making miscs are: allowed
+// Explosion on death miscs are: allowed
+// Festive weapon reskins are: allowed
+// Botkiller weapon reskins are: allowed
+
+// Blocked weapons for Scout
+// - Melee
+//  * Sandman
+
+// Blocked weapons for Demoman
+// - Melee
+//  * Scotsman's Skullcutter
+
+// Blocked weapons for Heavy
+// - Primary
+//  * Tomislav
+
+// Blocked weapons for Engineer
+// - Melee
+//  * Jag
+
+// Blocked weapons for Medic
+// - Primary
+//  * Blutsauger
+
+// Blocked weapons for Spy
+// - Secondary
+//  * L'Etranger
+
+"item_whitelist"
+{
+	"unlisted_items_default_to"		"1"
+	"The Fortified Compound"					"0"
+	"The Huntsman"							"0"
+	"TF_WEAPON_PASSTIME_GUN"					"0"
+}
